@@ -1,0 +1,5 @@
+This is the top-level repo for the Stoker software.
+
+The structure assumes the use of the 'repo' command from the Android project.
+
+The default manifest is default.xml
