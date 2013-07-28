@@ -6,5 +6,6 @@
 
   <project path="tini/tools" name="stoker-tools.git" remote="github"/>
   <project path="tini/examples/Flash_Util" name="stoker-flash-utils.git" remote="github"/>
+  <project path="tini/examples/json" name="stoker-json.git" remote="github"/>
   <project path="tini/examples/twitter" name="stoker-twitter.git" remote="github"/>
 </manifest>
