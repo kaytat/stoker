@@ -4,7 +4,7 @@
 
   <default revision="master"/>
 
-  <project path="tools" name="stoker-tools.git" remote="github"/>
-  <project path="tini/examples" name="stoker-flash-utils.git" remote="github"/>
-  <project path="tini/examples" name="stoker-twitter.git" remote="github"/>
+  <project path="tini/tools" name="stoker-tools.git" remote="github"/>
+  <project path="tini/examples/Flash_Util" name="stoker-flash-utils.git" remote="github"/>
+  <project path="tini/examples/twitter" name="stoker-twitter.git" remote="github"/>
 </manifest>
